@@ -1,5 +1,7 @@
 # aicentos — 企业级大模型 API 接入网关
 
+[English](README.md) | **简体中文**
+
 一个 API Key，调用 94 个模型、13 家厂商——OpenAI、Anthropic、Google、xAI、DeepSeek 等，全部走一个兼容 OpenAI、Anthropic、Gemini 协议的网关。
 
 - **自建官方账号池**，多账号兜底：某个上游账号失败时，请求自动重试到同一模型的下一个账号。
