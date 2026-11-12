@@ -1,5 +1,7 @@
 # aicentos — Enterprise LLM API Gateway
 
+**English** | [简体中文](README.zh-CN.md)
+
 One API key. 94 models from 13 providers — OpenAI, Anthropic, Google, xAI, DeepSeek and more — behind a single OpenAI-, Anthropic- and Gemini-compatible gateway.
 
 - **Self-built official account pool** with multi-account failover: if one upstream account fails, requests automatically retry on the next one.
